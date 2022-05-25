@@ -1,3 +1,5 @@
+//Program dibuat oleh Roy Rafles Matorang Pasaribu
+//25 Mei 2022
 #include<iostream>
 using namespace std;
 
