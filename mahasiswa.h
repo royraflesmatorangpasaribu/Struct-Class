@@ -1,5 +1,4 @@
 using namespace std;
-
 struct data{
 	string nama;
 	int npm;
